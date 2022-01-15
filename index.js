@@ -2,7 +2,7 @@ const TelegramBot = require('node-telegram-bot-api');
 const axios = require('axios');
 
 // Telegram Bot Token
-const token = '5055706177:AAE50OyXZFQh7DdASjxH53PPn8iyOpghoLU';
+const token = 'ENTER_YOUR_BOT_TOKEN';
 
 const postData = "Delhi past Covid peak, cases to go down now, says Health Minister Satyendra Jain";
 
